@@ -834,3 +834,18 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.09.27-22.45.40:033][224]AssetCheck: New page: Asset Save: multiple assets
 [2020.09.27-22.45.40:033][224]LogContentValidation: Display: Validating World /Game/Levels/TP3_GenevieveBellemare_Level01.TP3_GenevieveBellemare_Level01
 [2020.09.27-22.45.40:033][224]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TP3_GenevieveBellemare_Level01_BuiltData.TP3_GenevieveBellemare_Level01_BuiltData
+[2020.09.27-22.46.41:271][282]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.09.27-22.46.48:846][186]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.09.27-22.46.50:591][394]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.09.27-22.46.52:996][681]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.09.27-22.46.53:692][763]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.09.27-22.46.54:312][836]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2020.09.27-22.46.55:495][964]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.09.27-22.46.56:346][ 63]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.09.27-22.46.56:894][127]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.09.27-22.46.58:339][299]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.09.27-22.46.59:117][391]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.09.27-22.55.39:887][450]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2020.09.27-22.55.39:984][450]LogSavePackage: Moving 'C:/Users/Geneviève/Documents/Conception_JV_2019-2020/Bloc3/TP3_Alice_AD_GB_FL/TP3_LevelDesign_AD_GB_FL/TP3_Template/Saved/TP3_GenevieveBellemare_Level01_A21FBB9A947371DD24EAF5FA4F8EACA00.tmp' to 'C:/Users/Geneviève/Documents/Conception_JV_2019-2020/Bloc3/TP3_Alice_AD_GB_FL/TP3_LevelDesign_AD_GB_FL/TP3_Template/Saved/Autosaves/Game/Levels/TP3_GenevieveBellemare_Level01_Auto1.umap'
+[2020.09.27-22.55.39:986][450]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/TP3_GenevieveBellemare_Level01' took 0.125
+[2020.09.27-22.55.39:986][450]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.125
