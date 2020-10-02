@@ -671,3 +671,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.10.02-17.10.50:792][737]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/TP3_GenevieveBellemare_Level01.TP3_GenevieveBellemare_Level01:PersistentLevel.ModelComponent_199' invalid (2836 verts, 0 indices).
 [2020.10.02-17.10.50:792][737]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/TP3_GenevieveBellemare_Level01.TP3_GenevieveBellemare_Level01:PersistentLevel.ModelComponent_199.BodySetup_0 when we are unable to.
 [2020.10.02-17.10.55:469][293]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.10.02-17.11.31:098][722]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2020.10.02-17.11.31:214][722]LogSavePackage: Moving 'C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Saved/TP3_GenevieveBellemare_Level01CAD31AF94274C584EEB19EA1E2CE16A0.tmp' to 'C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Content/Levels/TP3_GenevieveBellemare_Level01.umap'
+[2020.10.02-17.11.31:312][722]LogSavePackage: Moving 'C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Saved/TP3_GenevieveBellemare_Level01_B9951556D40ED2DAA5B9C0AA4F8CB2B4D.tmp' to 'C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Content/Levels/TP3_GenevieveBellemare_Level01_BuiltData.uasset'
+[2020.10.02-17.11.31:326][722]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.02-17.11.31:326][722]LogContentValidation: Display: Validating World /Game/Levels/TP3_GenevieveBellemare_Level01.TP3_GenevieveBellemare_Level01
+[2020.10.02-17.11.31:326][722]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TP3_GenevieveBellemare_Level01_BuiltData.TP3_GenevieveBellemare_Level01_BuiltData
