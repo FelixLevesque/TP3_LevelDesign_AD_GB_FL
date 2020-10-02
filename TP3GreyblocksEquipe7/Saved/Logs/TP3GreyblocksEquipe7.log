@@ -1415,3 +1415,322 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.10.02-18.01.02:974][974]AssetCheck: New page: Asset Save: multiple assets
 [2020.10.02-18.01.02:974][974]LogContentValidation: Display: Validating World /Game/Levels/TP3_GenevieveBellemare_Level01.TP3_GenevieveBellemare_Level01
 [2020.10.02-18.01.02:974][974]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TP3_GenevieveBellemare_Level01_BuiltData.TP3_GenevieveBellemare_Level01_BuiltData
+[2020.10.02-18.19.42:291][ 77]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Geneviève\Documents\Conception_JV_2019-2020\Bloc3\ConceptionNiveauII\AliceWonderland\Decor_Alice\sci-fi-post-apocalyptic-apocalypse-wallpaper-preview.jpg)
+[2020.10.02-18.19.42:337][ 77]LogTexture: Display: Building textures: sci-fi-post-apocalyptic-apocalypse-wallpaper-preview (BGRA8, 728X410)
+[2020.10.02-18.19.42:359][ 77]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Geneviève\Documents\Conception_JV_2019-2020\Bloc3\ConceptionNiveauII\AliceWonderland\Decor_Alice\bd21f7a271ad347b8eba10037bce0241.jpg)
+[2020.10.02-18.19.42:396][ 77]LogTexture: Display: Building textures: bd21f7a271ad347b8eba10037bce0241 (BGRA8, 1630X800)
+[2020.10.02-18.19.42:421][ 77]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Geneviève\Documents\Conception_JV_2019-2020\Bloc3\ConceptionNiveauII\AliceWonderland\Decor_Alice\CloningArea.jpg)
+[2020.10.02-18.19.42:516][ 77]LogTexture: Display: Building textures: CloningArea (AutoDXT, 2560X1920)
+[2020.10.02-18.19.44:434][ 77]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Geneviève\Documents\Conception_JV_2019-2020\Bloc3\ConceptionNiveauII\AliceWonderland\Decor_Alice\d0f5ae1cca496b2e6c8bd3361462fe69.jpg)
+[2020.10.02-18.19.44:518][ 77]LogTexture: Display: Building textures: d0f5ae1cca496b2e6c8bd3361462fe69 (AutoDXT, 2560X1440)
+[2020.10.02-18.19.46:727][ 77]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Geneviève\Documents\Conception_JV_2019-2020\Bloc3\ConceptionNiveauII\AliceWonderland\Decor_Alice\dbbsqvj-d030b9a2-475d-45cd-aec5-0fbd1245f925.jpg)
+[2020.10.02-18.19.47:029][ 77]LogTexture: Display: Building textures: dbbsqvj-d030b9a2-475d-45cd-aec5-0fbd1245f925 (BGRA8, 4013X2257)
+[2020.10.02-18.19.47:200][ 77]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Geneviève\Documents\Conception_JV_2019-2020\Bloc3\ConceptionNiveauII\AliceWonderland\Decor_Alice\ForestNight.jpg)
+[2020.10.02-18.19.47:364][ 77]LogTexture: Display: Building textures: ForestNight (AutoDXT, 3840X2160)
+[2020.10.02-18.19.49:402][ 77]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Geneviève\Documents\Conception_JV_2019-2020\Bloc3\ConceptionNiveauII\AliceWonderland\Decor_Alice\ForestWonderland.jpg)
+[2020.10.02-18.19.49:434][ 77]LogTexture: Display: Building textures: ForestWonderland (AutoDXT, 1920X1200)
+[2020.10.02-18.19.50:558][ 77]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Geneviève\Documents\Conception_JV_2019-2020\Bloc3\ConceptionNiveauII\AliceWonderland\Decor_Alice\ForestWonderland2.jpg)
+[2020.10.02-18.19.50:562][ 77]LogTexture: Display: Building textures: ForestWonderland2 (BGRA8, 550X332)
+[2020.10.02-18.19.50:568][ 77]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Geneviève\Documents\Conception_JV_2019-2020\Bloc3\ConceptionNiveauII\AliceWonderland\Decor_Alice\MadHatter.jpg)
+[2020.10.02-18.19.50:572][ 77]LogTexture: Display: Building textures: MadHatter (AutoDXT, 340X456)
+[2020.10.02-18.19.50:630][ 77]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Geneviève\Documents\Conception_JV_2019-2020\Bloc3\ConceptionNiveauII\AliceWonderland\Decor_Alice\MadHatterTable.jpg)
+[2020.10.02-18.19.50:638][ 77]LogTexture: Display: Building textures: MadHatterTable (BGRA8, 736X413)
+[2020.10.02-18.19.50:652][ 77]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Geneviève\Documents\Conception_JV_2019-2020\Bloc3\ConceptionNiveauII\AliceWonderland\Decor_Alice\MadHatterTable2.jpg)
+[2020.10.02-18.19.50:907][ 77]LogTexture: Display: Building textures: MadHatterTable2 (AutoDXT, 4320X3240)
+[2020.10.02-18.19.55:485][ 77]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Geneviève\Documents\Conception_JV_2019-2020\Bloc3\ConceptionNiveauII\AliceWonderland\Decor_Alice\ruins-cityscapes-destruction.jpg)
+[2020.10.02-18.19.55:494][ 77]LogTexture: Display: Building textures: ruins-cityscapes-destruction (BGRA8, 728X410)
+[2020.10.02-18.19.58:725][425]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2020.10.02-18.19.58:734][425]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/TP3_GenevieveBellemare_Level01' took 0.053
+[2020.10.02-18.19.58:735][425]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/sci-fi-post-apocalyptic-apocalypse-wallpaper-preview] ([1] browsable assets)...
+[2020.10.02-18.19.58:770][425]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Art/sci-fi-post-apocalyptic-apocalypse-wallpaper-preview.sci-fi-post-apocalyptic-apocalypse-wallpaper-preview]
+[2020.10.02-18.19.58:770][425]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/sci-fi-post-apocalyptic-apocalypse-wallpaper-preview]
+[2020.10.02-18.19.58:782][425]LogSavePackage: Moving 'C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Saved/sci-fi-post-apocalyptic-apocalyp86AFA69A4B2899805CDDF09F501233E4.tmp' to 'C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Saved/Autosaves/Game/Art/sci-fi-post-apocalyptic-apocalypse-wallpaper-preview_Auto1.uasset'
+[2020.10.02-18.19.58:783][425]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/bd21f7a271ad347b8eba10037bce0241] ([1] browsable assets)...
+[2020.10.02-18.19.58:786][425]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Art/bd21f7a271ad347b8eba10037bce0241.bd21f7a271ad347b8eba10037bce0241]
+[2020.10.02-18.19.58:786][425]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/bd21f7a271ad347b8eba10037bce0241]
+[2020.10.02-18.19.58:799][425]LogSavePackage: Moving 'C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Saved/bd21f7a271ad347b8eba10037bce0241B06E66FC428FF773CB8DB0892297406C.tmp' to 'C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Saved/Autosaves/Game/Art/bd21f7a271ad347b8eba10037bce0241_Auto1.uasset'
+[2020.10.02-18.19.58:800][425]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/CloningArea] ([1] browsable assets)...
+[2020.10.02-18.19.58:804][425]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Art/CloningArea.CloningArea]
+[2020.10.02-18.19.58:804][425]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/CloningArea]
+[2020.10.02-18.19.58:837][425]LogSavePackage: Moving 'C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Saved/CloningArea_Auto10F5BA815437305E210E26A9E65975B94.tmp' to 'C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Saved/Autosaves/Game/Art/CloningArea_Auto1.uasset'
+[2020.10.02-18.19.58:838][425]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/d0f5ae1cca496b2e6c8bd3361462fe69] ([1] browsable assets)...
+[2020.10.02-18.19.58:841][425]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Art/d0f5ae1cca496b2e6c8bd3361462fe69.d0f5ae1cca496b2e6c8bd3361462fe69]
+[2020.10.02-18.19.58:841][425]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/d0f5ae1cca496b2e6c8bd3361462fe69]
+[2020.10.02-18.19.58:858][425]LogSavePackage: Moving 'C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Saved/d0f5ae1cca496b2e6c8bd3361462fe69282928E94830D3F4F58DD38C8021C0B3.tmp' to 'C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Saved/Autosaves/Game/Art/d0f5ae1cca496b2e6c8bd3361462fe69_Auto1.uasset'
+[2020.10.02-18.19.58:860][425]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/dbbsqvj-d030b9a2-475d-45cd-aec5-0fbd1245f925] ([1] browsable assets)...
+[2020.10.02-18.19.58:863][425]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Art/dbbsqvj-d030b9a2-475d-45cd-aec5-0fbd1245f925.dbbsqvj-d030b9a2-475d-45cd-aec5-0fbd1245f925]
+[2020.10.02-18.19.58:863][425]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/dbbsqvj-d030b9a2-475d-45cd-aec5-0fbd1245f925]
+[2020.10.02-18.19.58:967][425]LogSavePackage: Moving 'C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Saved/dbbsqvj-d030b9a2-475d-45cd-aec5-994F380141BABD3D39490CBB66DF0005.tmp' to 'C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Saved/Autosaves/Game/Art/dbbsqvj-d030b9a2-475d-45cd-aec5-0fbd1245f925_Auto1.uasset'
+[2020.10.02-18.19.58:968][425]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/ForestNight] ([1] browsable assets)...
+[2020.10.02-18.19.58:971][425]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Art/ForestNight.ForestNight]
+[2020.10.02-18.19.58:971][425]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/ForestNight]
+[2020.10.02-18.19.59:060][425]LogSavePackage: Moving 'C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Saved/ForestNight_Auto1787ED96545ACC526CA137FA878AD93D7.tmp' to 'C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Saved/Autosaves/Game/Art/ForestNight_Auto1.uasset'
+[2020.10.02-18.19.59:060][425]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/ForestWonderland] ([1] browsable assets)...
+[2020.10.02-18.19.59:064][425]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Art/ForestWonderland.ForestWonderland]
+[2020.10.02-18.19.59:064][425]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/ForestWonderland]
+[2020.10.02-18.19.59:080][425]LogSavePackage: Moving 'C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Saved/ForestWonderland_Auto1B9F512A94F782BA7A3737B9FB57D8321.tmp' to 'C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Saved/Autosaves/Game/Art/ForestWonderland_Auto1.uasset'
+[2020.10.02-18.19.59:081][425]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/ForestWonderland2] ([1] browsable assets)...
+[2020.10.02-18.19.59:085][425]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Art/ForestWonderland2.ForestWonderland2]
+[2020.10.02-18.19.59:085][425]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/ForestWonderland2]
+[2020.10.02-18.19.59:096][425]LogSavePackage: Moving 'C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Saved/ForestWonderland2_Auto16C2CCF2146F2ABF198C7FCB13D5BCFB5.tmp' to 'C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Saved/Autosaves/Game/Art/ForestWonderland2_Auto1.uasset'
+[2020.10.02-18.19.59:097][425]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/MadHatter] ([1] browsable assets)...
+[2020.10.02-18.19.59:100][425]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Art/MadHatter.MadHatter]
+[2020.10.02-18.19.59:100][425]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/MadHatter]
+[2020.10.02-18.19.59:112][425]LogSavePackage: Moving 'C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Saved/MadHatter_Auto16B9603D345C888BB511FA495826ADCC4.tmp' to 'C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Saved/Autosaves/Game/Art/MadHatter_Auto1.uasset'
+[2020.10.02-18.19.59:113][425]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/MadHatterTable] ([1] browsable assets)...
+[2020.10.02-18.19.59:116][425]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Art/MadHatterTable.MadHatterTable]
+[2020.10.02-18.19.59:116][425]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/MadHatterTable]
+[2020.10.02-18.19.59:129][425]LogSavePackage: Moving 'C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Saved/MadHatterTable_Auto15D79801C49C59A10BA1D53BEA1DBE4FA.tmp' to 'C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Saved/Autosaves/Game/Art/MadHatterTable_Auto1.uasset'
+[2020.10.02-18.19.59:129][425]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/MadHatterTable2] ([1] browsable assets)...
+[2020.10.02-18.19.59:133][425]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Art/MadHatterTable2.MadHatterTable2]
+[2020.10.02-18.19.59:133][425]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/MadHatterTable2]
+[2020.10.02-18.19.59:333][425]LogSavePackage: Moving 'C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Saved/MadHatterTable2_Auto1773CDE544E318DC7D521B491D1675878.tmp' to 'C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Saved/Autosaves/Game/Art/MadHatterTable2_Auto1.uasset'
+[2020.10.02-18.19.59:334][425]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/ruins-cityscapes-destruction] ([1] browsable assets)...
+[2020.10.02-18.19.59:337][425]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Art/ruins-cityscapes-destruction.ruins-cityscapes-destruction]
+[2020.10.02-18.19.59:337][425]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/ruins-cityscapes-destruction]
+[2020.10.02-18.19.59:349][425]LogSavePackage: Moving 'C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Saved/ruins-cityscapes-destruction_AutC69993BB404B012FC27275BDADDCB7A8.tmp' to 'C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Saved/Autosaves/Game/Art/ruins-cityscapes-destruction_Auto1.uasset'
+[2020.10.02-18.19.59:349][425]LogFileHelpers: Auto-saving content packages took 0.614
+[2020.10.02-18.20.15:144][294]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/City1" FILE="C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Content/Art/City1.uasset" SILENT=true
+[2020.10.02-18.20.15:320][294]LogSavePackage: Moving 'C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Saved/City10CAA90FE47B583AD70066CAFF7EA5E7B.tmp' to 'C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Content/Art/City1.uasset'
+[2020.10.02-18.20.15:554][294]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2020.10.02-18.20.15:595][294]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2020.10.02-18.20.15:625][294]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2020.10.02-18.20.15:721][294]AssetCheck: New page: Asset Save: City1
+[2020.10.02-18.20.15:721][294]LogContentValidation: Display: Validating Texture2D /Game/Art/City1.City1
+[2020.10.02-18.20.24:477][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Bridge" FILE="C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Content/Art/Bridge.uasset" SILENT=true
+[2020.10.02-18.20.24:880][337]LogSavePackage: Moving 'C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Saved/BridgeF4E0F49F4CC601855130D797D7BF444F.tmp' to 'C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Content/Art/Bridge.uasset'
+[2020.10.02-18.20.25:068][337]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2020.10.02-18.20.25:104][337]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2020.10.02-18.20.25:136][337]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2020.10.02-18.20.25:200][337]AssetCheck: New page: Asset Save: Bridge
+[2020.10.02-18.20.25:200][337]LogContentValidation: Display: Validating Texture2D /Game/Art/Bridge.Bridge
+[2020.10.02-18.20.34:861][478]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/ForestCity" FILE="C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Content/Art/ForestCity.uasset" SILENT=true
+[2020.10.02-18.20.36:073][478]LogSavePackage: Moving 'C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Saved/ForestCityF4889D0E4A1F58D68DB04E905B575002.tmp' to 'C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Content/Art/ForestCity.uasset'
+[2020.10.02-18.20.36:282][478]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.10.02-18.20.36:318][478]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2020.10.02-18.20.36:343][478]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2020.10.02-18.20.36:402][478]AssetCheck: New page: Asset Save: ForestCity
+[2020.10.02-18.20.36:402][478]LogContentValidation: Display: Validating Texture2D /Game/Art/ForestCity.ForestCity
+[2020.10.02-18.20.47:676][812]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/City2" FILE="C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Content/Art/City2.uasset" SILENT=true
+[2020.10.02-18.20.47:720][812]LogSavePackage: Moving 'C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Saved/City21B35AD57408CB91C4807819B74D3A096.tmp' to 'C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Content/Art/City2.uasset'
+[2020.10.02-18.20.47:894][812]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2020.10.02-18.20.47:928][812]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2020.10.02-18.20.47:955][812]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2020.10.02-18.20.48:014][812]AssetCheck: New page: Asset Save: City2
+[2020.10.02-18.20.48:014][812]LogContentValidation: Display: Validating Texture2D /Game/Art/City2.City2
+[2020.10.02-18.20.57:509][938]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/City3" FILE="C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Content/Art/City3.uasset" SILENT=true
+[2020.10.02-18.20.57:551][938]LogSavePackage: Moving 'C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Saved/City3EC13AA724E0261AB0A42588067C22A87.tmp' to 'C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Content/Art/City3.uasset'
+[2020.10.02-18.20.57:733][938]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.10.02-18.20.57:767][938]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2020.10.02-18.20.57:795][938]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.10.02-18.20.57:858][938]AssetCheck: New page: Asset Save: City3
+[2020.10.02-18.20.57:858][938]LogContentValidation: Display: Validating Texture2D /Game/Art/City3.City3
+[2020.10.02-18.21.20:314][ 13]LogSlate: Window 'Convert To VT' being destroyed
+[2020.10.02-18.21.20:340][ 13]LogVirtualTextureConversion: Display: Beginning conversion...
+[2020.10.02-18.21.20:340][ 13]LogVirtualTextureConversion: Display: Texture Bridge
+[2020.10.02-18.21.20:340][ 13]LogTexture: Warning: VirtualTextureStreaming not supported for "Bridge", texture size is not a power-of-2
+[2020.10.02-18.21.20:382][ 13]LogVirtualTextureConversion: Display: Broadcasting to editor.
+[2020.10.02-18.21.27:515][838]LogMaterial: Display: Missing cached shader map for material Bridge_Mat, compiling. 
+[2020.10.02-18.21.27:543][838]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 15
+[2020.10.02-18.21.27:543][838]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2020.10.02-18.21.27:543][838]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2020.10.02-18.21.27:543][838]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2020.10.02-18.21.27:543][838]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2020.10.02-18.21.27:543][838]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2020.10.02-18.21.27:543][838]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2020.10.02-18.21.27:543][838]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2020.10.02-18.23.05:322][325]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/TP3_GenevieveBellemare_Level01.TP3_GenevieveBellemare_Level01:PersistentLevel.ModelComponent_8822' invalid (3940 verts, 0 indices).
+[2020.10.02-18.23.05:322][325]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/TP3_GenevieveBellemare_Level01.TP3_GenevieveBellemare_Level01:PersistentLevel.ModelComponent_8822.BodySetup_0 when we are unable to.
+[2020.10.02-18.23.08:654][716]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/TP3_GenevieveBellemare_Level01.TP3_GenevieveBellemare_Level01:PersistentLevel.ModelComponent_8871' invalid (3940 verts, 0 indices).
+[2020.10.02-18.23.08:654][716]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/TP3_GenevieveBellemare_Level01.TP3_GenevieveBellemare_Level01:PersistentLevel.ModelComponent_8871.BodySetup_0 when we are unable to.
+[2020.10.02-18.23.21:948][301]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/TP3_GenevieveBellemare_Level01.TP3_GenevieveBellemare_Level01:PersistentLevel.ModelComponent_8920' invalid (3940 verts, 0 indices).
+[2020.10.02-18.23.21:948][301]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/TP3_GenevieveBellemare_Level01.TP3_GenevieveBellemare_Level01:PersistentLevel.ModelComponent_8920.BodySetup_0 when we are unable to.
+[2020.10.02-18.23.42:827][782]Cmd: POLY SELECT MATCHING BRUSH
+[2020.10.02-18.23.48:868][502]Cmd: TRANSACTION UNDO
+[2020.10.02-18.23.48:868][502]LogEditorTransaction: Undo Edit Y
+[2020.10.02-18.23.48:919][502]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/TP3_GenevieveBellemare_Level01.TP3_GenevieveBellemare_Level01:PersistentLevel.ModelComponent_8871' invalid (3940 verts, 0 indices).
+[2020.10.02-18.23.48:919][502]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/TP3_GenevieveBellemare_Level01.TP3_GenevieveBellemare_Level01:PersistentLevel.ModelComponent_8871.BodySetup_0 when we are unable to.
+[2020.10.02-18.23.51:280][740]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.10.02-18.24.18:801][ 23]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/TP3_GenevieveBellemare_Level01.TP3_GenevieveBellemare_Level01:PersistentLevel.ModelComponent_8969' invalid (3940 verts, 0 indices).
+[2020.10.02-18.24.18:801][ 23]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/TP3_GenevieveBellemare_Level01.TP3_GenevieveBellemare_Level01:PersistentLevel.ModelComponent_8969.BodySetup_0 when we are unable to.
+[2020.10.02-18.24.30:119][134]LogSlate: Window 'Convert To VT' being destroyed
+[2020.10.02-18.24.30:137][134]LogVirtualTextureConversion: Display: Beginning conversion...
+[2020.10.02-18.24.30:137][134]LogVirtualTextureConversion: Display: Texture City1
+[2020.10.02-18.24.30:137][134]LogTexture: Warning: VirtualTextureStreaming not supported for "City1", texture size is not a power-of-2
+[2020.10.02-18.24.30:160][134]LogVirtualTextureConversion: Display: Broadcasting to editor.
+[2020.10.02-18.24.41:143][431]LogMaterial: Display: Missing cached shader map for material City1_Mat, compiling. 
+[2020.10.02-18.24.41:156][431]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 15
+[2020.10.02-18.24.41:156][431]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2020.10.02-18.24.41:156][431]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2020.10.02-18.24.41:156][431]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2020.10.02-18.24.41:156][431]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2020.10.02-18.24.41:156][431]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2020.10.02-18.24.41:156][431]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2020.10.02-18.24.41:156][431]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2020.10.02-18.25.01:219][764]Cmd: POLY SELECT MATCHING BRUSH
+[2020.10.02-18.25.08:783][668]Cmd: TRANSACTION UNDO
+[2020.10.02-18.25.08:783][668]LogEditorTransaction: Undo Create Actors
+[2020.10.02-18.25.08:787][668]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/TP3_GenevieveBellemare_Level01.TP3_GenevieveBellemare_Level01:PersistentLevel.ModelComponent_8973' invalid (3940 verts, 0 indices).
+[2020.10.02-18.25.08:787][668]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/TP3_GenevieveBellemare_Level01.TP3_GenevieveBellemare_Level01:PersistentLevel.ModelComponent_8973.BodySetup_0 when we are unable to.
+[2020.10.02-18.25.08:790][668]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/TP3_GenevieveBellemare_Level01.TP3_GenevieveBellemare_Level01:PersistentLevel.ModelComponent_8969' invalid (3940 verts, 0 indices).
+[2020.10.02-18.25.08:790][668]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/TP3_GenevieveBellemare_Level01.TP3_GenevieveBellemare_Level01:PersistentLevel.ModelComponent_8969.BodySetup_0 when we are unable to.
+[2020.10.02-18.25.28:050][897]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.10.02-18.25.39:499][258]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/TP3_GenevieveBellemare_Level01.TP3_GenevieveBellemare_Level01:PersistentLevel.ModelComponent_9019' invalid (3940 verts, 0 indices).
+[2020.10.02-18.25.39:499][258]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/TP3_GenevieveBellemare_Level01.TP3_GenevieveBellemare_Level01:PersistentLevel.ModelComponent_9019.BodySetup_0 when we are unable to.
+[2020.10.02-18.25.52:381][769]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2020.10.02-18.25.52:516][769]LogSavePackage: Moving 'C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Saved/TP3_GenevieveBellemare_Level01E61B01F44592EAAE5FFA4FA4B444BF77.tmp' to 'C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Content/Levels/TP3_GenevieveBellemare_Level01.umap'
+[2020.10.02-18.25.52:578][769]LogSavePackage: Moving 'C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Saved/TP3_GenevieveBellemare_Level01_BCB26AA3F499737765D390B8551736891.tmp' to 'C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Content/Levels/TP3_GenevieveBellemare_Level01_BuiltData.uasset'
+[2020.10.02-18.25.52:594][769]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.02-18.25.52:594][769]LogContentValidation: Display: Validating World /Game/Levels/TP3_GenevieveBellemare_Level01.TP3_GenevieveBellemare_Level01
+[2020.10.02-18.25.52:594][769]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TP3_GenevieveBellemare_Level01_BuiltData.TP3_GenevieveBellemare_Level01_BuiltData
+[2020.10.02-18.26.04:325][149]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.10.02-18.26.28:652][ 32]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/TP3_GenevieveBellemare_Level01.TP3_GenevieveBellemare_Level01:PersistentLevel.ModelComponent_9167' invalid (3940 verts, 0 indices).
+[2020.10.02-18.26.28:652][ 32]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/TP3_GenevieveBellemare_Level01.TP3_GenevieveBellemare_Level01:PersistentLevel.ModelComponent_9167.BodySetup_0 when we are unable to.
+[2020.10.02-18.26.34:634][725]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2020.10.02-18.26.34:755][725]LogSavePackage: Moving 'C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Saved/TP3_GenevieveBellemare_Level01AFA22B3942C0CD9E942802B5B7BB7546.tmp' to 'C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Content/Levels/TP3_GenevieveBellemare_Level01.umap'
+[2020.10.02-18.26.34:810][725]LogSavePackage: Moving 'C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Saved/TP3_GenevieveBellemare_Level01_BBA56887140806D0373ED5B905E61BF8E.tmp' to 'C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Content/Levels/TP3_GenevieveBellemare_Level01_BuiltData.uasset'
+[2020.10.02-18.26.34:827][725]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.02-18.26.34:827][725]LogContentValidation: Display: Validating World /Game/Levels/TP3_GenevieveBellemare_Level01.TP3_GenevieveBellemare_Level01
+[2020.10.02-18.26.34:827][725]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TP3_GenevieveBellemare_Level01_BuiltData.TP3_GenevieveBellemare_Level01_BuiltData
+[2020.10.02-18.27.44:248][642]LogSlate: Window 'Convert To VT' being destroyed
+[2020.10.02-18.27.44:267][642]LogVirtualTextureConversion: Display: Beginning conversion...
+[2020.10.02-18.27.44:267][642]LogVirtualTextureConversion: Display: Texture ForestWonderland
+[2020.10.02-18.27.44:267][642]LogTexture: Warning: VirtualTextureStreaming not supported for "ForestWonderland", texture size is not a power-of-2
+[2020.10.02-18.27.44:290][642]LogVirtualTextureConversion: Display: Broadcasting to editor.
+[2020.10.02-18.27.50:178][329]LogMaterial: Display: Missing cached shader map for material ForestWonderland_Mat, compiling. 
+[2020.10.02-18.27.50:197][329]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 15
+[2020.10.02-18.27.50:197][329]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2020.10.02-18.27.50:197][329]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2020.10.02-18.27.50:197][329]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2020.10.02-18.27.50:197][329]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2020.10.02-18.27.50:197][329]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2020.10.02-18.27.50:197][329]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2020.10.02-18.27.50:197][329]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2020.10.02-18.28.23:412][232]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2020.10.02-18.28.23:538][232]LogSavePackage: Moving 'C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Saved/TP3_GenevieveBellemare_Level01AE9A7D584C86571962FC12A2077AAA9F.tmp' to 'C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Content/Levels/TP3_GenevieveBellemare_Level01.umap'
+[2020.10.02-18.28.23:597][232]LogSavePackage: Moving 'C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Saved/TP3_GenevieveBellemare_Level01_BF7DED5AE43A632583D0989BC98725A17.tmp' to 'C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Content/Levels/TP3_GenevieveBellemare_Level01_BuiltData.uasset'
+[2020.10.02-18.28.23:612][232]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.02-18.28.23:612][232]LogContentValidation: Display: Validating World /Game/Levels/TP3_GenevieveBellemare_Level01.TP3_GenevieveBellemare_Level01
+[2020.10.02-18.28.23:612][232]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TP3_GenevieveBellemare_Level01_BuiltData.TP3_GenevieveBellemare_Level01_BuiltData
+[2020.10.02-18.28.31:015][102]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.10.02-18.29.10:377][576]LogSlate: Window 'Convert To VT' being destroyed
+[2020.10.02-18.29.10:398][576]LogVirtualTextureConversion: Display: Beginning conversion...
+[2020.10.02-18.29.10:398][576]LogVirtualTextureConversion: Display: Texture ForestCity
+[2020.10.02-18.29.10:398][576]LogTexture: Warning: VirtualTextureStreaming not supported for "ForestCity", texture size is not a power-of-2
+[2020.10.02-18.29.10:445][576]LogVirtualTextureConversion: Display: Broadcasting to editor.
+[2020.10.02-18.29.17:512][408]LogMaterial: Display: Missing cached shader map for material ForestCity_Mat, compiling. 
+[2020.10.02-18.29.17:531][408]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 15
+[2020.10.02-18.29.17:531][408]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2020.10.02-18.29.17:531][408]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2020.10.02-18.29.17:531][408]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2020.10.02-18.29.17:531][408]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2020.10.02-18.29.17:531][408]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2020.10.02-18.29.17:531][408]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2020.10.02-18.29.17:531][408]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2020.10.02-18.29.28:100][617]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2020.10.02-18.29.28:218][617]LogSavePackage: Moving 'C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Saved/TP3_GenevieveBellemare_Level0153E559CD47949BA9A67ABC8C8A9A3396.tmp' to 'C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Content/Levels/TP3_GenevieveBellemare_Level01.umap'
+[2020.10.02-18.29.28:271][617]LogSavePackage: Moving 'C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Saved/TP3_GenevieveBellemare_Level01_BFE5B04F643DA5053AC4D02AC86295D70.tmp' to 'C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Content/Levels/TP3_GenevieveBellemare_Level01_BuiltData.uasset'
+[2020.10.02-18.29.28:287][617]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.02-18.29.28:287][617]LogContentValidation: Display: Validating World /Game/Levels/TP3_GenevieveBellemare_Level01.TP3_GenevieveBellemare_Level01
+[2020.10.02-18.29.28:287][617]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TP3_GenevieveBellemare_Level01_BuiltData.TP3_GenevieveBellemare_Level01_BuiltData
+[2020.10.02-18.30.36:359][471]LogSlate: Window 'Convert To VT' being destroyed
+[2020.10.02-18.30.36:381][471]LogVirtualTextureConversion: Display: Beginning conversion...
+[2020.10.02-18.30.36:381][471]LogVirtualTextureConversion: Display: Texture CloningArea
+[2020.10.02-18.30.36:381][471]LogTexture: Warning: VirtualTextureStreaming not supported for "CloningArea", texture size is not a power-of-2
+[2020.10.02-18.30.36:403][471]LogVirtualTextureConversion: Display: Broadcasting to editor.
+[2020.10.02-18.30.40:549][939]LogMaterial: Display: Missing cached shader map for material CloningArea_Mat, compiling. 
+[2020.10.02-18.30.40:568][939]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 15
+[2020.10.02-18.30.40:568][939]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2020.10.02-18.30.40:568][939]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2020.10.02-18.30.40:568][939]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2020.10.02-18.30.40:568][939]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2020.10.02-18.30.40:568][939]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2020.10.02-18.30.40:568][939]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2020.10.02-18.30.40:568][939]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2020.10.02-18.30.51:215][149]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2020.10.02-18.30.51:335][149]LogSavePackage: Moving 'C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Saved/TP3_GenevieveBellemare_Level0185AFAB4942999A7E75271DB0801ADC53.tmp' to 'C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Content/Levels/TP3_GenevieveBellemare_Level01.umap'
+[2020.10.02-18.30.51:389][149]LogSavePackage: Moving 'C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Saved/TP3_GenevieveBellemare_Level01_BA9C8BA9444080A2DD3C804B40DD4E079.tmp' to 'C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Content/Levels/TP3_GenevieveBellemare_Level01_BuiltData.uasset'
+[2020.10.02-18.30.51:405][149]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.02-18.30.51:405][149]LogContentValidation: Display: Validating World /Game/Levels/TP3_GenevieveBellemare_Level01.TP3_GenevieveBellemare_Level01
+[2020.10.02-18.30.51:406][149]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TP3_GenevieveBellemare_Level01_BuiltData.TP3_GenevieveBellemare_Level01_BuiltData
+[2020.10.02-18.31.25:799][972]LogSlate: Window 'Convert To VT' being destroyed
+[2020.10.02-18.31.25:814][972]LogVirtualTextureConversion: Display: Beginning conversion...
+[2020.10.02-18.31.25:816][972]LogVirtualTextureConversion: Display: Broadcasting to editor.
+[2020.10.02-18.31.29:270][348]LogMaterial: Display: Missing cached shader map for material ForestWonderland2_Mat, compiling. 
+[2020.10.02-18.31.29:288][348]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 15
+[2020.10.02-18.31.29:288][348]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2020.10.02-18.31.29:288][348]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2020.10.02-18.31.29:288][348]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2020.10.02-18.31.29:288][348]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2020.10.02-18.31.29:288][348]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2020.10.02-18.31.29:288][348]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2020.10.02-18.31.29:288][348]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2020.10.02-18.31.39:878][560]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2020.10.02-18.31.40:000][560]LogSavePackage: Moving 'C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Saved/TP3_GenevieveBellemare_Level01B51DEC734AEECE9CBC30689DC6FB9116.tmp' to 'C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Content/Levels/TP3_GenevieveBellemare_Level01.umap'
+[2020.10.02-18.31.40:058][560]LogSavePackage: Moving 'C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Saved/TP3_GenevieveBellemare_Level01_BC4E55FDE429B88A28C27CDAAEA4461BC.tmp' to 'C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Content/Levels/TP3_GenevieveBellemare_Level01_BuiltData.uasset'
+[2020.10.02-18.31.40:073][560]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.02-18.31.40:073][560]LogContentValidation: Display: Validating World /Game/Levels/TP3_GenevieveBellemare_Level01.TP3_GenevieveBellemare_Level01
+[2020.10.02-18.31.40:073][560]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TP3_GenevieveBellemare_Level01_BuiltData.TP3_GenevieveBellemare_Level01_BuiltData
+[2020.10.02-18.31.45:319][175]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.10.02-18.32.18:743][899]LogSlate: Window 'Convert To VT' being destroyed
+[2020.10.02-18.32.18:761][899]LogVirtualTextureConversion: Display: Beginning conversion...
+[2020.10.02-18.32.18:761][899]LogVirtualTextureConversion: Display: Texture City1
+[2020.10.02-18.32.18:761][899]LogTexture: Warning: VirtualTextureStreaming not supported for "City1", texture size is not a power-of-2
+[2020.10.02-18.32.18:771][899]LogMaterial: Display: Missing cached shader map for material City1_Mat, compiling. 
+[2020.10.02-18.32.18:790][899]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 15
+[2020.10.02-18.32.18:790][899]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2020.10.02-18.32.18:790][899]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2020.10.02-18.32.18:790][899]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2020.10.02-18.32.18:790][899]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2020.10.02-18.32.18:790][899]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2020.10.02-18.32.18:790][899]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2020.10.02-18.32.18:790][899]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2020.10.02-18.32.18:801][899]LogVirtualTextureConversion: Display: Broadcasting to editor.
+[2020.10.02-18.32.41:901][599]Cmd: EDIT COPY
+[2020.10.02-18.32.42:434][662]Cmd: EDIT PASTE
+[2020.10.02-18.34.32:729][487]LogSlate: Window 'Convert To VT' being destroyed
+[2020.10.02-18.34.32:743][487]LogVirtualTextureConversion: Display: Beginning conversion...
+[2020.10.02-18.34.32:746][487]LogVirtualTextureConversion: Display: Broadcasting to editor.
+[2020.10.02-18.34.39:635][268]LogMaterial: Display: Missing cached shader map for material City3_Mat, compiling. 
+[2020.10.02-18.34.39:654][268]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 15
+[2020.10.02-18.34.39:654][268]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2020.10.02-18.34.39:654][268]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2020.10.02-18.34.39:654][268]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2020.10.02-18.34.39:654][268]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2020.10.02-18.34.39:654][268]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2020.10.02-18.34.39:654][268]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2020.10.02-18.34.39:654][268]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2020.10.02-18.35.15:118][227]LogSlate: Window 'Convert To VT' being destroyed
+[2020.10.02-18.35.15:143][227]LogVirtualTextureConversion: Display: Beginning conversion...
+[2020.10.02-18.35.15:146][227]LogVirtualTextureConversion: Display: Broadcasting to editor.
+[2020.10.02-18.35.19:351][711]LogMaterial: Display: Missing cached shader map for material City2_Mat, compiling. 
+[2020.10.02-18.35.19:371][711]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 15
+[2020.10.02-18.35.19:371][711]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2020.10.02-18.35.19:371][711]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2020.10.02-18.35.19:371][711]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2020.10.02-18.35.19:371][711]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2020.10.02-18.35.19:371][711]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2020.10.02-18.35.19:371][711]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2020.10.02-18.35.19:371][711]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2020.10.02-18.35.23:608][163]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2020.10.02-18.35.23:740][163]LogSavePackage: Moving 'C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Saved/TP3_GenevieveBellemare_Level016B9B6CD44A450F07DC6F4FA2F52278F3.tmp' to 'C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Content/Levels/TP3_GenevieveBellemare_Level01.umap'
+[2020.10.02-18.35.23:809][163]LogSavePackage: Moving 'C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Saved/TP3_GenevieveBellemare_Level01_B29E45F634288C9D56BAD5B8D2296D1DE.tmp' to 'C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Content/Levels/TP3_GenevieveBellemare_Level01_BuiltData.uasset'
+[2020.10.02-18.35.23:833][163]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.02-18.35.23:833][163]LogContentValidation: Display: Validating World /Game/Levels/TP3_GenevieveBellemare_Level01.TP3_GenevieveBellemare_Level01
+[2020.10.02-18.35.23:833][163]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TP3_GenevieveBellemare_Level01_BuiltData.TP3_GenevieveBellemare_Level01_BuiltData
+[2020.10.02-18.35.41:407][248]Cmd: EDIT COPY
+[2020.10.02-18.35.41:831][298]Cmd: EDIT PASTE
+[2020.10.02-18.36.38:894][  5]Cmd: EDIT COPY
+[2020.10.02-18.36.39:418][ 67]Cmd: EDIT PASTE
+[2020.10.02-18.37.01:242][609]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2020.10.02-18.37.01:377][609]LogSavePackage: Moving 'C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Saved/TP3_GenevieveBellemare_Level012ECAAF4F4A540A2F18DE338D207196AD.tmp' to 'C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Content/Levels/TP3_GenevieveBellemare_Level01.umap'
+[2020.10.02-18.37.01:437][609]LogSavePackage: Moving 'C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Saved/TP3_GenevieveBellemare_Level01_B3CC3EF344CC8F47637381DA8A096D3CE.tmp' to 'C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Content/Levels/TP3_GenevieveBellemare_Level01_BuiltData.uasset'
+[2020.10.02-18.37.01:453][609]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.02-18.37.01:453][609]LogContentValidation: Display: Validating World /Game/Levels/TP3_GenevieveBellemare_Level01.TP3_GenevieveBellemare_Level01
+[2020.10.02-18.37.01:453][609]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TP3_GenevieveBellemare_Level01_BuiltData.TP3_GenevieveBellemare_Level01_BuiltData
+[2020.10.02-18.37.12:260][881]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2020.10.02-18.37.12:381][881]LogSavePackage: Moving 'C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Saved/TP3_GenevieveBellemare_Level018DA88E6D44C08DAD3B92A79411DCDD9D.tmp' to 'C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Content/Levels/TP3_GenevieveBellemare_Level01.umap'
+[2020.10.02-18.37.12:429][881]LogSavePackage: Moving 'C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Saved/TP3_GenevieveBellemare_Level01_BDFCD75714CA30022FC35B5A3E0C90C9D.tmp' to 'C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Content/Levels/TP3_GenevieveBellemare_Level01_BuiltData.uasset'
+[2020.10.02-18.37.12:445][881]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.02-18.37.12:445][881]LogContentValidation: Display: Validating World /Game/Levels/TP3_GenevieveBellemare_Level01.TP3_GenevieveBellemare_Level01
+[2020.10.02-18.37.12:445][881]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TP3_GenevieveBellemare_Level01_BuiltData.TP3_GenevieveBellemare_Level01_BuiltData
