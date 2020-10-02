@@ -1734,3 +1734,77 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.10.02-18.37.12:445][881]AssetCheck: New page: Asset Save: multiple assets
 [2020.10.02-18.37.12:445][881]LogContentValidation: Display: Validating World /Game/Levels/TP3_GenevieveBellemare_Level01.TP3_GenevieveBellemare_Level01
 [2020.10.02-18.37.12:445][881]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TP3_GenevieveBellemare_Level01_BuiltData.TP3_GenevieveBellemare_Level01_BuiltData
+[2020.10.02-18.41.10:546][190]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2020.10.02-18.41.10:662][190]LogSavePackage: Moving 'C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Saved/TP3_GenevieveBellemare_Level01293214EA41FB1ABEA97EF392E3995B8D.tmp' to 'C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Content/Levels/TP3_GenevieveBellemare_Level01.umap'
+[2020.10.02-18.41.10:709][190]LogSavePackage: Moving 'C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Saved/TP3_GenevieveBellemare_Level01_B9114E98F4DEE9A8D3E7E1987F441ADA3.tmp' to 'C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Content/Levels/TP3_GenevieveBellemare_Level01_BuiltData.uasset'
+[2020.10.02-18.41.10:724][190]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.02-18.41.10:724][190]LogContentValidation: Display: Validating World /Game/Levels/TP3_GenevieveBellemare_Level01.TP3_GenevieveBellemare_Level01
+[2020.10.02-18.41.10:724][190]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TP3_GenevieveBellemare_Level01_BuiltData.TP3_GenevieveBellemare_Level01_BuiltData
+[2020.10.02-18.42.12:466][503]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.10.02-18.42.14:394][725]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2020.10.02-18.42.14:521][725]LogSavePackage: Moving 'C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Saved/TP3_GenevieveBellemare_Level017E0466E64C88EE82108214BC96E27DB6.tmp' to 'C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Content/Levels/TP3_GenevieveBellemare_Level01.umap'
+[2020.10.02-18.42.14:578][725]LogSavePackage: Moving 'C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Saved/TP3_GenevieveBellemare_Level01_B40973D6940DF8622291D9EA936949E72.tmp' to 'C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Content/Levels/TP3_GenevieveBellemare_Level01_BuiltData.uasset'
+[2020.10.02-18.42.14:595][725]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.02-18.42.14:595][725]LogContentValidation: Display: Validating World /Game/Levels/TP3_GenevieveBellemare_Level01.TP3_GenevieveBellemare_Level01
+[2020.10.02-18.42.14:595][725]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TP3_GenevieveBellemare_Level01_BuiltData.TP3_GenevieveBellemare_Level01_BuiltData
+[2020.10.02-18.42.31:722][769]Cmd: EDIT COPY
+[2020.10.02-18.42.32:269][834]Cmd: EDIT PASTE
+[2020.10.02-18.44.15:220][929]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.10.02-18.44.26:541][266]LogMaterial: Display: Missing cached shader map for material ForestNight_Mat, compiling. 
+[2020.10.02-18.44.26:562][266]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 15
+[2020.10.02-18.44.26:562][266]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2020.10.02-18.44.26:562][266]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2020.10.02-18.44.26:562][266]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2020.10.02-18.44.26:562][266]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2020.10.02-18.44.26:562][266]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2020.10.02-18.44.26:562][266]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2020.10.02-18.44.26:563][266]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2020.10.02-18.44.37:714][531]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.10.02-18.45.06:598][970]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2020.10.02-18.45.06:737][970]LogSavePackage: Moving 'C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Saved/TP3_GenevieveBellemare_Level01B3ADA7344D820F4042CB16896A1602F2.tmp' to 'C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Content/Levels/TP3_GenevieveBellemare_Level01.umap'
+[2020.10.02-18.45.06:802][970]LogSavePackage: Moving 'C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Saved/TP3_GenevieveBellemare_Level01_BD693BECA40B60102C57F1CA9FA8B448B.tmp' to 'C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Content/Levels/TP3_GenevieveBellemare_Level01_BuiltData.uasset'
+[2020.10.02-18.45.06:818][970]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.02-18.45.06:818][970]LogContentValidation: Display: Validating World /Game/Levels/TP3_GenevieveBellemare_Level01.TP3_GenevieveBellemare_Level01
+[2020.10.02-18.45.06:818][970]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TP3_GenevieveBellemare_Level01_BuiltData.TP3_GenevieveBellemare_Level01_BuiltData
+[2020.10.02-18.45.21:698][506]LogSlate: Window 'Convert To VT' being destroyed
+[2020.10.02-18.45.21:715][506]LogVirtualTextureConversion: Display: Beginning conversion...
+[2020.10.02-18.45.21:718][506]LogVirtualTextureConversion: Display: Broadcasting to editor.
+[2020.10.02-18.45.28:879][334]LogMaterial: Display: Missing cached shader map for material MadHatterTable_Mat, compiling. 
+[2020.10.02-18.45.28:900][334]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 15
+[2020.10.02-18.45.28:900][334]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2020.10.02-18.45.28:900][334]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2020.10.02-18.45.28:900][334]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2020.10.02-18.45.28:900][334]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2020.10.02-18.45.28:900][334]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2020.10.02-18.45.28:900][334]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2020.10.02-18.45.28:900][334]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2020.10.02-18.46.35:534][106]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2020.10.02-18.46.35:663][106]LogSavePackage: Moving 'C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Saved/TP3_GenevieveBellemare_Level01E9ED6F7E40C64A5B467C3D8C78DBE057.tmp' to 'C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Content/Levels/TP3_GenevieveBellemare_Level01.umap'
+[2020.10.02-18.46.35:720][106]LogSavePackage: Moving 'C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Saved/TP3_GenevieveBellemare_Level01_BB4E14CB04822A78FBAACA094F3ADA873.tmp' to 'C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Content/Levels/TP3_GenevieveBellemare_Level01_BuiltData.uasset'
+[2020.10.02-18.46.35:735][106]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.02-18.46.35:736][106]LogContentValidation: Display: Validating World /Game/Levels/TP3_GenevieveBellemare_Level01.TP3_GenevieveBellemare_Level01
+[2020.10.02-18.46.35:736][106]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TP3_GenevieveBellemare_Level01_BuiltData.TP3_GenevieveBellemare_Level01_BuiltData
+[2020.10.02-18.46.50:262][831]LogMaterial: Display: Missing cached shader map for material MadHatter_Mat, compiling. 
+[2020.10.02-18.46.50:281][831]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 15
+[2020.10.02-18.46.50:281][831]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2020.10.02-18.46.50:281][831]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2020.10.02-18.46.50:281][831]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2020.10.02-18.46.50:281][831]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2020.10.02-18.46.50:281][831]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2020.10.02-18.46.50:281][831]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2020.10.02-18.46.50:281][831]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2020.10.02-18.47.49:165][717]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2020.10.02-18.47.49:295][717]LogSavePackage: Moving 'C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Saved/TP3_GenevieveBellemare_Level01A9F3284A4825889665F5CDAE63FE8975.tmp' to 'C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Content/Levels/TP3_GenevieveBellemare_Level01.umap'
+[2020.10.02-18.47.49:354][717]LogSavePackage: Moving 'C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Saved/TP3_GenevieveBellemare_Level01_BE5B70179425094C85CA23BA5FD59F002.tmp' to 'C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Content/Levels/TP3_GenevieveBellemare_Level01_BuiltData.uasset'
+[2020.10.02-18.47.49:370][717]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.02-18.47.49:370][717]LogContentValidation: Display: Validating World /Game/Levels/TP3_GenevieveBellemare_Level01.TP3_GenevieveBellemare_Level01
+[2020.10.02-18.47.49:370][717]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TP3_GenevieveBellemare_Level01_BuiltData.TP3_GenevieveBellemare_Level01_BuiltData
+[2020.10.02-18.48.03:450][387]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.10.02-18.48.07:083][822]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.10.02-18.48.10:197][195]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.10.02-18.48.42:193][974]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2020.10.02-18.48.42:317][974]LogSavePackage: Moving 'C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Saved/TP3_GenevieveBellemare_Level0158166ABB42CA825E7D9EAAB6DC9643D8.tmp' to 'C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Content/Levels/TP3_GenevieveBellemare_Level01.umap'
+[2020.10.02-18.48.42:372][974]LogSavePackage: Moving 'C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Saved/TP3_GenevieveBellemare_Level01_B9131BA524F1E08096249EFB45F9FAF6B.tmp' to 'C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Content/Levels/TP3_GenevieveBellemare_Level01_BuiltData.uasset'
+[2020.10.02-18.48.42:388][974]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.02-18.48.42:388][974]LogContentValidation: Display: Validating World /Game/Levels/TP3_GenevieveBellemare_Level01.TP3_GenevieveBellemare_Level01
+[2020.10.02-18.48.42:388][974]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TP3_GenevieveBellemare_Level01_BuiltData.TP3_GenevieveBellemare_Level01_BuiltData
