@@ -677,3 +677,172 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.10.02-17.11.31:326][722]AssetCheck: New page: Asset Save: multiple assets
 [2020.10.02-17.11.31:326][722]LogContentValidation: Display: Validating World /Game/Levels/TP3_GenevieveBellemare_Level01.TP3_GenevieveBellemare_Level01
 [2020.10.02-17.11.31:326][722]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TP3_GenevieveBellemare_Level01_BuiltData.TP3_GenevieveBellemare_Level01_BuiltData
+[2020.10.02-17.12.30:763][325]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/SideScrollerBP/Maps/SwitchToLevel02.SwitchToLevel02
+[2020.10.02-17.12.31:110][325]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2020.10.02-17.12.32:278][325]LogSlate: Took 0.000211 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.10.02-17.12.43:180][604]LogSlate: Window 'SwitchToLevel02' being destroyed
+[2020.10.02-17.12.43:182][604]LogSlate: Window 'SwitchToLevel02' being destroyed
+[2020.10.02-17.12.43:183][604]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.10.02-17.12.43:183][604]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.02-17.12.43:543][632]LogSlate: Took 0.015574 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.10.02-17.13.07:151][427]LogAIModule: Creating AISystem for world TP3_AlexisDesbiens_Level02
+[2020.10.02-17.13.07:209][427]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/TP3_AlexisDesbiens_Level02.TP3_AlexisDesbiens_Level02
+[2020.10.02-17.13.07:247][427]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2020.10.02-17.13.07:250][427]Cmd: MAP LOAD FILE="C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Content/Levels/TP3_AlexisDesbiens_Level02.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.10.02-17.13.07:250][427]LightingResults: New page: Lighting Build
+[2020.10.02-17.13.07:250][427]LoadErrors: New page: Loading map: TP3_AlexisDesbiens_Level02.umap
+[2020.10.02-17.13.07:251][427]LogWorld: UWorld::CleanupWorld for TP3_GenevieveBellemare_Level01, bSessionEnded=true, bCleanupResources=true
+[2020.10.02-17.13.07:251][427]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.02-17.13.07:251][427]MapCheck: New page: Map Check
+[2020.10.02-17.13.07:251][427]LightingResults: New page: Lighting Build
+[2020.10.02-17.13.07:283][427]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2020.10.02-17.13.07:363][427]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.10.02-17.13.07:402][427]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2020.10.02-17.13.07:429][427]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.10.02-17.13.07:430][427]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1,056ms to complete.
+[2020.10.02-17.13.07:430][427]LogFileHelpers: Loading map 'TP3_AlexisDesbiens_Level02' took 0.182
+[2020.10.02-17.13.11:072][830]LogTexture: Display: Building textures: téléchargement (BGRA8, 225X225)
+[2020.10.02-17.13.11:072][830]LogTexture: Display: Building textures: fde0daab-a854-4f39-8def-b64f08a799f5_1_adbfeaed183faca306b2b404d6575157 (AutoDXT, 2000X2000)
+[2020.10.02-17.13.11:072][830]LogMaterial: Display: Missing cached shader map for material fde0daab-a854-4f39-8def-b64f08a799f5_1_adbfeaed183faca306b2b404d6575157_Mat, compiling. 
+[2020.10.02-17.13.11:126][830]LogMaterial: Display: Missing cached shader map for material téléchargement_Mat, compiling. 
+[2020.10.02-17.13.11:137][830]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 15
+[2020.10.02-17.13.11:137][830]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2020.10.02-17.13.11:137][830]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2020.10.02-17.13.11:137][830]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2020.10.02-17.13.11:137][830]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2020.10.02-17.13.11:137][830]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2020.10.02-17.13.11:137][830]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2020.10.02-17.13.11:137][830]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2020.10.02-17.13.11:146][830]LogAIModule: Creating AISystem for world testLevel
+[2020.10.02-17.13.11:162][830]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/testLevel.testLevel
+[2020.10.02-17.13.11:197][830]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2020.10.02-17.13.11:199][830]Cmd: MAP LOAD FILE="C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Content/Levels/testLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.10.02-17.13.11:199][830]LightingResults: New page: Lighting Build
+[2020.10.02-17.13.11:200][830]LoadErrors: New page: Loading map: testLevel.umap
+[2020.10.02-17.13.11:202][830]LogWorld: UWorld::CleanupWorld for TP3_AlexisDesbiens_Level02, bSessionEnded=true, bCleanupResources=true
+[2020.10.02-17.13.11:202][830]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.02-17.13.11:202][830]MapCheck: New page: Map Check
+[2020.10.02-17.13.11:202][830]LightingResults: New page: Lighting Build
+[2020.10.02-17.13.11:238][830]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2020.10.02-17.13.11:251][830]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.10.02-17.13.11:293][830]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2020.10.02-17.13.11:323][830]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.10.02-17.13.11:324][830]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,189ms to complete.
+[2020.10.02-17.13.11:324][830]LogFileHelpers: Loading map 'testLevel' took 0.126
+[2020.10.02-17.13.12:304][941]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 15
+[2020.10.02-17.13.12:541][969]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 13
+[2020.10.02-17.13.12:691][987]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 11
+[2020.10.02-17.13.12:895][ 11]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 9
+[2020.10.02-17.13.12:933][ 16]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2020.10.02-17.13.12:950][ 18]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2020.10.02-17.13.12:983][ 22]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2020.10.02-17.13.13:161][ 43]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2020.10.02-17.13.13:178][ 45]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2020.10.02-17.13.13:310][ 56]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2020.10.02-17.13.13:442][ 71]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2020.10.02-17.13.19:595][799]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/TP3_GenevieveBellemare_Level01.TP3_GenevieveBellemare_Level01:PersistentLevel.ModelComponent_199' invalid (2836 verts, 0 indices).
+[2020.10.02-17.13.19:595][799]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/TP3_GenevieveBellemare_Level01.TP3_GenevieveBellemare_Level01:PersistentLevel.ModelComponent_199.BodySetup_0 when we are unable to.
+[2020.10.02-17.13.19:600][799]LogAIModule: Creating AISystem for world TP3_GenevieveBellemare_Level01
+[2020.10.02-17.13.19:638][799]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/TP3_GenevieveBellemare_Level01.TP3_GenevieveBellemare_Level01
+[2020.10.02-17.13.19:669][799]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2020.10.02-17.13.19:670][799]Cmd: MAP LOAD FILE="C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Content/Levels/TP3_GenevieveBellemare_Level01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.10.02-17.13.19:670][799]LightingResults: New page: Lighting Build
+[2020.10.02-17.13.19:671][799]LoadErrors: New page: Loading map: TP3_GenevieveBellemare_Level01.umap
+[2020.10.02-17.13.19:672][799]LogWorld: UWorld::CleanupWorld for testLevel, bSessionEnded=true, bCleanupResources=true
+[2020.10.02-17.13.19:672][799]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.02-17.13.19:672][799]MapCheck: New page: Map Check
+[2020.10.02-17.13.19:672][799]LightingResults: New page: Lighting Build
+[2020.10.02-17.13.19:704][799]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2020.10.02-17.13.19:730][799]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.10.02-17.13.19:766][799]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2020.10.02-17.13.19:793][799]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.10.02-17.13.19:794][799]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1,019ms to complete.
+[2020.10.02-17.13.19:794][799]LogFileHelpers: Loading map 'TP3_GenevieveBellemare_Level01' took 0.125
+[2020.10.02-17.13.41:468][365]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/TP3_GenevieveBellemare_Level01.TP3_GenevieveBellemare_Level01:PersistentLevel.ModelComponent_7' invalid (2836 verts, 0 indices).
+[2020.10.02-17.13.41:468][365]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/TP3_GenevieveBellemare_Level01.TP3_GenevieveBellemare_Level01:PersistentLevel.ModelComponent_7.BodySetup_0 when we are unable to.
+[2020.10.02-17.13.45:268][813]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/TP3_GenevieveBellemare_Level01.TP3_GenevieveBellemare_Level01:PersistentLevel.ModelComponent_39' invalid (2836 verts, 0 indices).
+[2020.10.02-17.13.45:268][813]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/TP3_GenevieveBellemare_Level01.TP3_GenevieveBellemare_Level01:PersistentLevel.ModelComponent_39.BodySetup_0 when we are unable to.
+[2020.10.02-17.13.48:742][218]Cmd: DELETE
+[2020.10.02-17.13.48:742][218]Cmd: ACTOR DELETE
+[2020.10.02-17.13.48:748][218]LogEditorActor: Deleted Actor: Brush
+[2020.10.02-17.13.48:781][218]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2020.10.02-17.13.48:801][218]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/TP3_GenevieveBellemare_Level01.TP3_GenevieveBellemare_Level01:PersistentLevel.ModelComponent_71' invalid (2764 verts, 0 indices).
+[2020.10.02-17.13.48:801][218]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/TP3_GenevieveBellemare_Level01.TP3_GenevieveBellemare_Level01:PersistentLevel.ModelComponent_71.BodySetup_0 when we are unable to.
+[2020.10.02-17.13.48:819][218]LogEditorActor: Deleted 1 Actors (0.077 secs)
+[2020.10.02-17.13.54:106][843]Cmd: EDIT COPY
+[2020.10.02-17.13.54:848][916]Cmd: EDIT PASTE
+[2020.10.02-17.13.54:922][916]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/TP3_GenevieveBellemare_Level01.TP3_GenevieveBellemare_Level01:PersistentLevel.ModelComponent_103' invalid (2764 verts, 0 indices).
+[2020.10.02-17.13.54:922][916]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/TP3_GenevieveBellemare_Level01.TP3_GenevieveBellemare_Level01:PersistentLevel.ModelComponent_103.BodySetup_0 when we are unable to.
+[2020.10.02-17.13.54:963][916]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/TP3_GenevieveBellemare_Level01.TP3_GenevieveBellemare_Level01:PersistentLevel.ModelComponent_135' invalid (2764 verts, 0 indices).
+[2020.10.02-17.13.54:963][916]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/TP3_GenevieveBellemare_Level01.TP3_GenevieveBellemare_Level01:PersistentLevel.ModelComponent_135.BodySetup_0 when we are unable to.
+[2020.10.02-17.13.58:414][319]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/TP3_GenevieveBellemare_Level01.TP3_GenevieveBellemare_Level01:PersistentLevel.ModelComponent_167' invalid (2836 verts, 0 indices).
+[2020.10.02-17.13.58:414][319]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/TP3_GenevieveBellemare_Level01.TP3_GenevieveBellemare_Level01:PersistentLevel.ModelComponent_167.BodySetup_0 when we are unable to.
+[2020.10.02-17.14.02:027][742]Cmd: EDIT COPY
+[2020.10.02-17.14.02:526][801]Cmd: EDIT PASTE
+[2020.10.02-17.14.02:551][801]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/TP3_GenevieveBellemare_Level01.TP3_GenevieveBellemare_Level01:PersistentLevel.ModelComponent_231' invalid (2836 verts, 0 indices).
+[2020.10.02-17.14.02:551][801]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/TP3_GenevieveBellemare_Level01.TP3_GenevieveBellemare_Level01:PersistentLevel.ModelComponent_231.BodySetup_0 when we are unable to.
+[2020.10.02-17.14.02:591][801]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/TP3_GenevieveBellemare_Level01.TP3_GenevieveBellemare_Level01:PersistentLevel.ModelComponent_263' invalid (2836 verts, 0 indices).
+[2020.10.02-17.14.02:591][801]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/TP3_GenevieveBellemare_Level01.TP3_GenevieveBellemare_Level01:PersistentLevel.ModelComponent_263.BodySetup_0 when we are unable to.
+[2020.10.02-17.14.05:609][151]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/TP3_GenevieveBellemare_Level01.TP3_GenevieveBellemare_Level01:PersistentLevel.ModelComponent_295' invalid (2964 verts, 0 indices).
+[2020.10.02-17.14.05:609][151]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/TP3_GenevieveBellemare_Level01.TP3_GenevieveBellemare_Level01:PersistentLevel.ModelComponent_295.BodySetup_0 when we are unable to.
+[2020.10.02-17.14.08:953][543]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/TP3_GenevieveBellemare_Level01.TP3_GenevieveBellemare_Level01:PersistentLevel.ModelComponent_327' invalid (2936 verts, 0 indices).
+[2020.10.02-17.14.08:953][543]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/TP3_GenevieveBellemare_Level01.TP3_GenevieveBellemare_Level01:PersistentLevel.ModelComponent_327.BodySetup_0 when we are unable to.
+[2020.10.02-17.14.13:000][ 19]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/TP3_GenevieveBellemare_Level01.TP3_GenevieveBellemare_Level01:PersistentLevel.ModelComponent_359' invalid (2936 verts, 0 indices).
+[2020.10.02-17.14.13:000][ 19]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/TP3_GenevieveBellemare_Level01.TP3_GenevieveBellemare_Level01:PersistentLevel.ModelComponent_359.BodySetup_0 when we are unable to.
+[2020.10.02-17.14.16:856][474]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/TP3_GenevieveBellemare_Level01.TP3_GenevieveBellemare_Level01:PersistentLevel.ModelComponent_391' invalid (2916 verts, 0 indices).
+[2020.10.02-17.14.16:856][474]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/TP3_GenevieveBellemare_Level01.TP3_GenevieveBellemare_Level01:PersistentLevel.ModelComponent_391.BodySetup_0 when we are unable to.
+[2020.10.02-17.14.23:243][234]LogEditorViewport: Clicking on Actor (LMB): SpikeWallFace_C (SpikeWallFace12)
+[2020.10.02-17.14.25:322][479]Cmd: DELETE
+[2020.10.02-17.14.25:322][479]Cmd: ACTOR DELETE
+[2020.10.02-17.14.25:330][479]LogEditorActor: Deleted Actor: SpikeWallFace_C
+[2020.10.02-17.14.25:361][479]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2020.10.02-17.14.25:363][479]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2020.10.02-17.14.37:460][916]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/TP3_GenevieveBellemare_Level01.TP3_GenevieveBellemare_Level01:PersistentLevel.ModelComponent_423' invalid (2936 verts, 0 indices).
+[2020.10.02-17.14.37:460][916]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/TP3_GenevieveBellemare_Level01.TP3_GenevieveBellemare_Level01:PersistentLevel.ModelComponent_423.BodySetup_0 when we are unable to.
+[2020.10.02-17.14.42:428][501]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/TP3_GenevieveBellemare_Level01.TP3_GenevieveBellemare_Level01:PersistentLevel.ModelComponent_455' invalid (2884 verts, 0 indices).
+[2020.10.02-17.14.42:428][501]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/TP3_GenevieveBellemare_Level01.TP3_GenevieveBellemare_Level01:PersistentLevel.ModelComponent_455.BodySetup_0 when we are unable to.
+[2020.10.02-17.14.48:258][191]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/TP3_GenevieveBellemare_Level01.TP3_GenevieveBellemare_Level01:PersistentLevel.ModelComponent_487' invalid (2904 verts, 0 indices).
+[2020.10.02-17.14.48:258][191]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/TP3_GenevieveBellemare_Level01.TP3_GenevieveBellemare_Level01:PersistentLevel.ModelComponent_487.BodySetup_0 when we are unable to.
+[2020.10.02-17.14.53:898][861]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/TP3_GenevieveBellemare_Level01.TP3_GenevieveBellemare_Level01:PersistentLevel.ModelComponent_519' invalid (2904 verts, 0 indices).
+[2020.10.02-17.14.53:898][861]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/TP3_GenevieveBellemare_Level01.TP3_GenevieveBellemare_Level01:PersistentLevel.ModelComponent_519.BodySetup_0 when we are unable to.
+[2020.10.02-17.15.06:368][339]Cmd: DELETE
+[2020.10.02-17.15.06:368][339]Cmd: ACTOR DELETE
+[2020.10.02-17.15.06:377][339]LogEditorActor: Deleted Actor: Brush
+[2020.10.02-17.15.06:409][339]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2020.10.02-17.15.06:429][339]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/TP3_GenevieveBellemare_Level01.TP3_GenevieveBellemare_Level01:PersistentLevel.ModelComponent_551' invalid (2756 verts, 0 indices).
+[2020.10.02-17.15.06:429][339]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/TP3_GenevieveBellemare_Level01.TP3_GenevieveBellemare_Level01:PersistentLevel.ModelComponent_551.BodySetup_0 when we are unable to.
+[2020.10.02-17.15.06:447][339]LogEditorActor: Deleted 1 Actors (0.079 secs)
+[2020.10.02-17.15.38:686][128]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.10.02-17.15.44:155][761]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/TP3_GenevieveBellemare_Level01.TP3_GenevieveBellemare_Level01:PersistentLevel.ModelComponent_583' invalid (2776 verts, 0 indices).
+[2020.10.02-17.15.44:155][761]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/TP3_GenevieveBellemare_Level01.TP3_GenevieveBellemare_Level01:PersistentLevel.ModelComponent_583.BodySetup_0 when we are unable to.
+[2020.10.02-17.15.50:088][464]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/TP3_GenevieveBellemare_Level01.TP3_GenevieveBellemare_Level01:PersistentLevel.ModelComponent_615' invalid (2776 verts, 0 indices).
+[2020.10.02-17.15.50:088][464]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/TP3_GenevieveBellemare_Level01.TP3_GenevieveBellemare_Level01:PersistentLevel.ModelComponent_615.BodySetup_0 when we are unable to.
+[2020.10.02-17.15.52:297][721]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/TP3_GenevieveBellemare_Level01.TP3_GenevieveBellemare_Level01:PersistentLevel.ModelComponent_647' invalid (2776 verts, 0 indices).
+[2020.10.02-17.15.52:297][721]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/TP3_GenevieveBellemare_Level01.TP3_GenevieveBellemare_Level01:PersistentLevel.ModelComponent_647.BodySetup_0 when we are unable to.
+[2020.10.02-17.15.58:309][436]LogEditorViewport: Clicking on Actor (LMB): SpikeTrap_C (SpikeTrap)
+[2020.10.02-17.16.00:961][746]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.10.02-17.16.08:241][607]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/TP3_GenevieveBellemare_Level01.TP3_GenevieveBellemare_Level01:PersistentLevel.ModelComponent_679' invalid (2776 verts, 0 indices).
+[2020.10.02-17.16.08:241][607]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/TP3_GenevieveBellemare_Level01.TP3_GenevieveBellemare_Level01:PersistentLevel.ModelComponent_679.BodySetup_0 when we are unable to.
+[2020.10.02-17.16.14:204][309]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/TP3_GenevieveBellemare_Level01.TP3_GenevieveBellemare_Level01:PersistentLevel.ModelComponent_711' invalid (2776 verts, 0 indices).
+[2020.10.02-17.16.14:204][309]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/TP3_GenevieveBellemare_Level01.TP3_GenevieveBellemare_Level01:PersistentLevel.ModelComponent_711.BodySetup_0 when we are unable to.
+[2020.10.02-17.16.19:373][923]Cmd: TRANSACTION UNDO
+[2020.10.02-17.16.19:373][923]LogEditorTransaction: Undo Move Actors
+[2020.10.02-17.16.19:411][923]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/TP3_GenevieveBellemare_Level01.TP3_GenevieveBellemare_Level01:PersistentLevel.ModelComponent_679' invalid (2776 verts, 0 indices).
+[2020.10.02-17.16.19:411][923]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/TP3_GenevieveBellemare_Level01.TP3_GenevieveBellemare_Level01:PersistentLevel.ModelComponent_679.BodySetup_0 when we are unable to.
+[2020.10.02-17.16.21:538][131]LogEditorViewport: Clicking on Actor (LMB): SpikeTrap_C (SpikeTrap)
+[2020.10.02-17.16.26:220][679]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/TP3_GenevieveBellemare_Level01.TP3_GenevieveBellemare_Level01:PersistentLevel.ModelComponent_743' invalid (2776 verts, 0 indices).
+[2020.10.02-17.16.26:220][679]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/TP3_GenevieveBellemare_Level01.TP3_GenevieveBellemare_Level01:PersistentLevel.ModelComponent_743.BodySetup_0 when we are unable to.
+[2020.10.02-17.16.27:154][785]LogEditorViewport: Clicking on Actor (LMB): SpikeTrap_C (SpikeTrap)
+[2020.10.02-17.16.30:044][124]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.10.02-17.16.31:996][345]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2020.10.02-17.16.32:099][345]LogSavePackage: Moving 'C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Saved/TP3_GenevieveBellemare_Level0164591A2C45362C9612BF51B961335B80.tmp' to 'C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Content/Levels/TP3_GenevieveBellemare_Level01.umap'
+[2020.10.02-17.16.32:166][345]LogSavePackage: Moving 'C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Saved/TP3_GenevieveBellemare_Level01_BBDBAA3D44C36F4415EB52EBA29AE02CB.tmp' to 'C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Content/Levels/TP3_GenevieveBellemare_Level01_BuiltData.uasset'
+[2020.10.02-17.16.32:181][345]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.02-17.16.32:181][345]LogContentValidation: Display: Validating World /Game/Levels/TP3_GenevieveBellemare_Level01.TP3_GenevieveBellemare_Level01
+[2020.10.02-17.16.32:181][345]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TP3_GenevieveBellemare_Level01_BuiltData.TP3_GenevieveBellemare_Level01_BuiltData
+[2020.10.02-17.16.38:000][561]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2020.10.02-17.16.38:093][561]LogSavePackage: Moving 'C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Saved/TP3_GenevieveBellemare_Level012A424B0043D998737CE84AB6A53D7D0D.tmp' to 'C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Content/Levels/TP3_GenevieveBellemare_Level01.umap'
+[2020.10.02-17.16.38:152][561]LogSavePackage: Moving 'C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Saved/TP3_GenevieveBellemare_Level01_BB08FFDD0479F811989E8558F6DF03CD6.tmp' to 'C:/Users/Geneviève/Documents/GitHub/TP3_Alice/TP3_LevelDesign_AD_GB_FL/TP3GreyblocksEquipe7/Content/Levels/TP3_GenevieveBellemare_Level01_BuiltData.uasset'
+[2020.10.02-17.16.38:167][561]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.02-17.16.38:167][561]LogContentValidation: Display: Validating World /Game/Levels/TP3_GenevieveBellemare_Level01.TP3_GenevieveBellemare_Level01
+[2020.10.02-17.16.38:167][561]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TP3_GenevieveBellemare_Level01_BuiltData.TP3_GenevieveBellemare_Level01_BuiltData
